@@ -10,7 +10,7 @@ The original hardware design is here: https://developer.mbed.org/teams/mbed/wiki
 The original design files are Eagle format.
 OSHChip_CMSIS_DAP_V1.0 is almost identical, but has no jumper wires,
 uses USB mini-B rather than USB micro-B connector (probably a mistake.
-I'll cange it on the next version to micro-B) and most importantly,
+I'll change it on the next version to micro-B) and most importantly,
 OSHChip_CMSIS_DAP_V1.0 makes the USB-to-Serial interface available.
 As shown below, OSHChip_CMSIS_DAP_V1.0 is designed with Altium.
 
