@@ -19,7 +19,7 @@ But the OSHChip_CMSIS_DAP_V1.0 uses the newer version here
 https://github.com/xiongyihui/CMSIS-DAP developed Yihui Xiong of Seeed Studio
 
 
-The PCB design files are in the directory //Design_Files// and were
+The PCB design files are in the directory *Design_Files* and were
 created with Altium Designer Release 10
 
 Since you may not have access to Altium Designer, I have also
